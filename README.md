@@ -5,7 +5,8 @@ pipeline de CI/CD a un proyecto en Godot, tengo armado un
 pequeño esqueleto de un contenedor base para compilar los
 proyectos. Tu deber es completar el contenedor para ejecutar
 Godot en modo sin interfaz.
-Usen el documento adjunto al examen.
+Usen el documento adjunto al examen. 
+Ejemplo de output al ejecutar el contenedor: GodotEngine v4.4.stable.official.4c311cbee - https://godotengine.org
 
 Segunda Parte:
 Integren al API con Go una vista creada con React, la vista
